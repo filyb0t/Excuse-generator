@@ -7,5 +7,6 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
+  document;
   console.log("Hello Rigo from the console!");
 };
